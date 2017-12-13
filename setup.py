@@ -31,7 +31,7 @@ setup(
     long_description=readme,
     url='https://github.com/ethereum/pyethereum/',
     install_requires=install_requires,
-    tests_require=tests_require,
+#    tests_require=tests_require,
     dependency_links=dependency_links,
     setup_requires=[
         #    'pytest-runner==2.7'
